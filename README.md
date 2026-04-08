@@ -1,4 +1,4 @@
-# LCSF for Weather Forecasting
+# CBSimCast for Cloud Forecasting
 
 This repository contains the implementation code for LCSF on the WeatherBench dataset.
 
